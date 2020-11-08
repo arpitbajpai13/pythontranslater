@@ -1,4 +1,4 @@
 from googletrans import Translator
 Translator = Translator()
-trans = Translator.translate("subh ratri")
+trans = Translator.translate(" kya haal hai ? ")
 print(trans.text)
